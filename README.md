@@ -54,3 +54,5 @@ __Analysis of term deposit w.r.t. Client Information :__
 - From the analysis, only 11.27 % subscribed the term deposit and 88.73% didnot  subscribed  the term deposit and clearly it is imbalaced dataset. we have to handle it to avoid the bais toward the majority of the class.
 ---
 __Modeling:__ I used Logistic Regression, Random Forest, Decision tree, Support Vector Machine, Extra Tree Classifier & Xgboost classifier .Random Forest outperform the others model.So we can use here Random Forest to predict the client subscribed the term deposit or not.
+
+![1](https://user-images.githubusercontent.com/29980448/109961672-437ac480-7d10-11eb-9daf-6004d2c67df6.jpg)
