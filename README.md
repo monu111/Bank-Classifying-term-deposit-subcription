@@ -7,7 +7,7 @@ In this project we have to classify that client will accept the term deposit  su
 ## data set link :[Download](https://archive.ics.uci.edu/ml/datasets/Bank%2BMarketing)
 
 
-# Exploratory Data Analysis & Conclusion:
+## Exploratory Data Analysis & Conclusion:
 
 __Client information :__
 - From the analysis, the average age of client approx 40 and Minimum: 18 years old and Maximum: approx 95 years old.
